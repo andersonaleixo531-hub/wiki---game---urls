@@ -434,7 +434,7 @@
     "Floresta_tropical"
   ] 
 }
-  themes: [
+  "themes":
     ["Inseto", "Insecta"],
     ["Artrópode", "Artrópode"],
     ["Aranha", "Aranha"],
