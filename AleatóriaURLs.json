@@ -1,4 +1,4 @@
-[
+{
   ["Acre", "Acre"], ["Rio Branco", "Rio_Branco"], ["Alagoas", "Alagoas"], ["Maceió", "Macei%C3%B3"],
   ["Amapá", "Amap%C3%A1"], ["Macapá", "Macap%C3%A1"], ["Amazonas", "Amazonas"], ["Manaus", "Manaus"],
   ["Bahia", "Bahia"], ["Salvador", "Salvador_(Bahia)"], ["Ceará", "Cear%C3%A1"], ["Fortaleza", "Fortaleza"],
@@ -1248,4 +1248,4 @@
   ["Renato Gaúcho", "Renato_Ga%BAcho"],
   ["Dorival Júnior", "Dorival_J%C3%BAnior"],
   ["Mano Menezes", "Mano_Menezes"]
-]
+}
